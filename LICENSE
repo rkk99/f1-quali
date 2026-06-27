@@ -1,0 +1,14 @@
+Copyright (c) 2026 rkk99. All rights reserved.
+
+This repository contains the auto-published output of a private project. The
+original content here — the page design and layout, the analysis/visualization
+code, and the compiled HTML — is proprietary and provided for viewing only.
+You may not copy, reproduce, modify, redistribute, or reuse it, in whole or in
+part, without prior written permission.
+
+Third-party components retain their own licenses, including:
+  - Chart.js, chartjs-plugin-zoom, Hammer.js (their respective notices)
+  - Country flags from flag-icons (https://github.com/lipis/flag-icons), MIT
+  - Timing data via FastF1 (https://github.com/theOehrly/Fast-F1)
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
